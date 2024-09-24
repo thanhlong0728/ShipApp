@@ -1,0 +1,6 @@
+framework module Pods_WeShop_WeShopUITests {
+  umbrella header "Pods-WeShop-WeShopUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

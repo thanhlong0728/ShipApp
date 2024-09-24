@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "commode.PNG",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "commode@2x.PNG",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "commode@3x.PNG",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
